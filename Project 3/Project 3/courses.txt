@@ -1,0 +1,15 @@
+14
+11111 CS   101  3 Intro to Prog. in Python
+11112 CS   102  4 Intro to Prog. in C++
+11113 CS   103  2 Programming in Linux
+11114 CS   999 12 CS Dissertation Work
+22221 MA   101  4 College Algebra
+22222 MA   102  4 College Trigonometry
+33333 CHEM 101  3 Intro Chemistry I
+33331 CHEM 102  3 Intro Chemistry II
+33332 CHEM 103  3 Organic Chemistry I
+33334 CHEM 103L 1 Organic Chem I Lab
+44441 KHS  101  1 Tennis
+44442 KHS  102  1 Basketball
+44443 KHS  103  2 Running & Jogging
+44444 KHS  104  1 Mud Wrestling
